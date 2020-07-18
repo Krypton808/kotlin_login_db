@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">login_db</string>
+
+    <string-array name="arr_images">
+        <item>@drawable/smoke</item>
+        <item>@drawable/hammerboy</item>
+        <item>@drawable/hush</item>
+        <item>@drawable/wolf</item>
+        <item>@drawable/caveira</item>
+    </string-array>
+</resources>
